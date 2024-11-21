@@ -1827,37 +1827,6 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "Food",
-                        "LeftTrain",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "Food",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
                         "Border",
                         "Head",
                         "",
