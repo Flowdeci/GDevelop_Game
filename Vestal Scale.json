@@ -339,6 +339,216 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/1up/19718bbacb87bd7a1367a4a55a453f197dee53bffd2f14a2cc0969ccbc16c777_1up 1.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Untitled design.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Untitled design2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Untitled design3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Untitled design3.png\",\"extension\":\".png\"}",
+        "name": "Untitled design3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Untitled design-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Untitled design-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Untitled design4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled design4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/f6885c565b97b1a17e9fc52060e1036d461450bca219d9b72b9338985444d55f_Male Character 1_Walking Down_1.png",
+          "name": "Male Character 1_Walking Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/4b21cd5d778f59f2c7ce24eefcb7feb1ae64d98ba7d3e5065a2eef1beb89cc1f_Male Character 1_Walking Down_2.png",
+          "name": "Male Character 1_Walking Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/ed58312826fa43b7d3d7814c33b2b9ab4896e881c8b497353dcffe5ce2d623f9_Male Character 1_Walking Down_3.png",
+          "name": "Male Character 1_Walking Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/5a0013934a8d78329baf20e8863d7109bc415143038071886f0dec7982043b0b_Male Character 1_Walking Left_1.png",
+          "name": "Male Character 1_Walking Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/4b6958484cc9ecd0a4d58b4dfe8c13775ada45da37acbab8657d6e25d5377374_Male Character 1_Walking Left_2.png",
+          "name": "Male Character 1_Walking Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/39c4331a583b09760b2cc250f666074f87618ea65bc2ee176912e4b527625b02_Male Character 1_Walking Left_3.png",
+          "name": "Male Character 1_Walking Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/74deeddd72040faeed12a7eea83f98d9d7c1838858089ef7404bb833467defa2_Male Character 1_Walking Right_1.png",
+          "name": "Male Character 1_Walking Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/fa90a88333eab4d6f928e739a218381177ab5cc89e264f3efc62edbeae9e7e9c_Male Character 1_Walking Right_2.png",
+          "name": "Male Character 1_Walking Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/04a06c9ebe32f65a04a6910a0467cac03c53d12b74d9182ff3476d6065684047_Male Character 1_Walking Right_3.png",
+          "name": "Male Character 1_Walking Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/d28222bd08e677a65adc3283c9f0726a1bd5cb721dd53e966b9956a6deb1657e_Male Character 1_Walking Up_1.png",
+          "name": "Male Character 1_Walking Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/b199c2c8073cbe5669b5870b0aac2601101b41887651b6f7bf8b8b96aa5ea0a5_Male Character 1_Walking Up_2.png",
+          "name": "Male Character 1_Walking Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Male Character 1_Walking Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Male Character 1_Walking Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/males/b6706d7c3b73a703e0ba1cf4a540dd3f183b7cd507f4ab3924d87355fdd14194_Male Character 1_Walking Up_3.png",
+          "name": "Male Character 1_Walking Up_3.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -386,7 +596,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.1882588899467492,
+        "zoomFactor": 0.360081657501506,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -402,9 +612,9 @@
           "name": "Score_Text",
           "persistentUuid": "1f12efa8-1eb0-474d-81bb-6c507d29d390",
           "width": 180,
-          "x": 60,
+          "x": 210,
           "y": 60,
-          "zOrder": 1,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -434,7 +644,7 @@
           "name": "Border",
           "persistentUuid": "4ab90b8d-3c1d-47a9-91b2-7cb3c820386e",
           "width": 0,
-          "x": 1170,
+          "x": 1171,
           "y": 0,
           "zOrder": 2,
           "numberProperties": [],
@@ -477,30 +687,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 240,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Door",
-          "persistentUuid": "a2198ac7-2396-48f3-ab8d-68ea9ab35276",
-          "width": 120,
-          "x": 120,
-          "y": 450,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 60,
           "keepRatio": true,
           "layer": "",
           "name": "Tail_Id_text",
           "persistentUuid": "d19b99d6-bb73-4d64-89fe-e83fb50c22b4",
           "width": 210,
-          "x": 330,
+          "x": 480,
           "y": 60,
           "zOrder": 4,
           "numberProperties": [],
@@ -519,6 +712,159 @@
           "x": 720,
           "y": 60,
           "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1145,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Trains",
+          "persistentUuid": "b2b85d5e-24cc-40d3-8e62-ebedbe7f1575",
+          "width": 153,
+          "x": 1020,
+          "y": 30,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1145,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Trains",
+          "persistentUuid": "fa07b694-dc45-457b-bbca-e906b217e835",
+          "width": 153,
+          "x": 30,
+          "y": 30,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1140,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor_Texture",
+          "persistentUuid": "e84667d1-48e3-4337-a58e-fc44128a42c7",
+          "width": 1140,
+          "x": 30,
+          "y": 30,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1140,
+          "keepRatio": true,
+          "layer": "",
+          "name": "RightTrain",
+          "persistentUuid": "0c2b8f60-3ff2-48cf-b06e-47e36002b508",
+          "width": 153,
+          "x": 1020,
+          "y": 30,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1140,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LeftTrain",
+          "persistentUuid": "03058d0c-1b8e-4889-b43e-b0c98b1d4ad2",
+          "width": 153,
+          "x": 30,
+          "y": 30,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 120,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "e51b7394-d1ef-49e4-861e-925666a4db2b",
+          "width": 30,
+          "x": 1020,
+          "y": 900,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 120,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "5625d6f4-8521-4085-9706-3246caa81b44",
+          "width": 30,
+          "x": 1020,
+          "y": 330,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 120,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "eba4620a-81a4-4aea-ac10-9b6631975b04",
+          "width": 30,
+          "x": 150,
+          "y": 330,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 120,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "278c3ce6-8156-4864-b94c-5c5bd1bda3b9",
+          "width": 30,
+          "x": 150,
+          "y": 900,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -982,6 +1328,198 @@
             "characterSize": 60,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "RightTrain",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled design4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 153,
+                            "y": 0
+                          },
+                          {
+                            "x": 153,
+                            "y": 605
+                          },
+                          {
+                            "x": 0,
+                            "y": 605
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Floor_Texture",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled design-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 604,
+                            "y": 2
+                          },
+                          {
+                            "x": 604,
+                            "y": 608
+                          },
+                          {
+                            "x": 0,
+                            "y": 608
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "LeftTrain",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Untitled design3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Untitled design3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 144.5,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 145,
+                            "y": 605
+                          },
+                          {
+                            "x": 1,
+                            "y": 604
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -1010,6 +1548,18 @@
           },
           {
             "objectName": "Uid_Text"
+          },
+          {
+            "objectName": "RightTrain"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "LeftTrain"
+          },
+          {
+            "objectName": "Floor_Texture"
           }
         ]
       },
@@ -1215,6 +1765,99 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
+                        "Food",
+                        "LeftTrain",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Food",
+                        "=",
+                        "RandomWithStep(0, 1170, 30)",
+                        "=",
+                        "RandomWithStep(0, 1170, 30)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Food",
+                        "RightTrain",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Food",
+                        "=",
+                        "RandomWithStep(0, 1170, 30)",
+                        "=",
+                        "RandomWithStep(0, 1170, 30)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Food",
+                        "LeftTrain",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Food",
+                        "=",
+                        "RandomWithStep(0, 1170, 30)",
+                        "=",
+                        "RandomWithStep(0, 1170, 30)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
                         "Border",
                         "Head",
                         "",
@@ -1312,6 +1955,19 @@
                       "parameters": [
                         "Head",
                         "Tail",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Head",
+                        "Door",
                         "",
                         "",
                         "yes"
@@ -1954,6 +2610,19 @@
                             "=",
                             "1"
                           ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Head",
+                            "RightTrain",
+                            "",
+                            "",
+                            "yes"
+                          ]
                         }
                       ],
                       "actions": [
@@ -1981,6 +2650,19 @@
                             "Left",
                             "=",
                             "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Head",
+                            "LeftTrain",
+                            "",
+                            "",
+                            "yes"
                           ]
                         }
                       ],
