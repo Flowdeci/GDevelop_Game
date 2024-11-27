@@ -623,7 +623,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.360081657501506,
+        "zoomFactor": 0.36008165750150617,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -801,23 +801,6 @@
           "height": 1140,
           "keepRatio": true,
           "layer": "",
-          "name": "RightTrain",
-          "persistentUuid": "0c2b8f60-3ff2-48cf-b06e-47e36002b508",
-          "width": 153,
-          "x": 1020,
-          "y": 30,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 1140,
-          "keepRatio": true,
-          "layer": "",
           "name": "LeftTrain",
           "persistentUuid": "03058d0c-1b8e-4889-b43e-b0c98b1d4ad2",
           "width": 153,
@@ -838,7 +821,7 @@
           "name": "Door",
           "persistentUuid": "e51b7394-d1ef-49e4-861e-925666a4db2b",
           "width": 30,
-          "x": 1020,
+          "x": 1018,
           "y": 900,
           "zOrder": 15,
           "numberProperties": [],
@@ -855,7 +838,7 @@
           "name": "Door",
           "persistentUuid": "5625d6f4-8521-4085-9706-3246caa81b44",
           "width": 30,
-          "x": 1020,
+          "x": 1019,
           "y": 330,
           "zOrder": 16,
           "numberProperties": [],
@@ -872,7 +855,7 @@
           "name": "Door",
           "persistentUuid": "eba4620a-81a4-4aea-ac10-9b6631975b04",
           "width": 30,
-          "x": 150,
+          "x": 153,
           "y": 330,
           "zOrder": 17,
           "numberProperties": [],
@@ -889,9 +872,26 @@
           "name": "Door",
           "persistentUuid": "278c3ce6-8156-4864-b94c-5c5bd1bda3b9",
           "width": 30,
-          "x": 150,
+          "x": 153,
           "y": 900,
           "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1140,
+          "keepRatio": true,
+          "layer": "",
+          "name": "RightTrain",
+          "persistentUuid": "5c2da778-3d5f-48c4-8bba-07a797bab090",
+          "width": 153,
+          "x": 1018,
+          "y": 30,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1357,7 +1357,7 @@
           }
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "RightTrain",
           "type": "Sprite",
@@ -2487,6 +2487,19 @@
                             ">",
                             "0"
                           ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Head",
+                            "Door",
+                            "",
+                            "",
+                            "yes"
+                          ]
                         }
                       ],
                       "actions": [
@@ -2867,7 +2880,7 @@
                         "Door",
                         "\"Boarding\"",
                         ">",
-                        "1"
+                        ".25"
                       ]
                     }
                   ],
