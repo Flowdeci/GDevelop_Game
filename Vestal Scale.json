@@ -640,6 +640,108 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/848f861767e7ce4581dba9e122ee7bafeaca57987655cebe1f78ab31d1300f0f_Square White Slider Thumb.png",
           "name": "Square White Slider Thumb.png"
         }
+      },
+      {
+        "file": "assets/MetalV1_Walk_14.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "7cd204fbf5c9d29b609e3bac1f2dcfaaef0bbc33038b000f7a448f6b9594ae13_MetalV1_Walk_14.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Metal/Walk/7cd204fbf5c9d29b609e3bac1f2dcfaaef0bbc33038b000f7a448f6b9594ae13_MetalV1_Walk_14.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Downtown Boogie.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "65d2524bf89daae21798edf4302b5178779ea16e1ce80a7fcfcac62f9e605ad2_Downtown Boogie.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Chill/65d2524bf89daae21798edf4302b5178779ea16e1ce80a7fcfcac62f9e605ad2_Downtown Boogie.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Powerup 5.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "01d787569bed7ee17859eca13499426a536d38b472d1480df36d5980ce635cfa_Powerup 5.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Power-up/01d787569bed7ee17859eca13499426a536d38b472d1480df36d5980ce635cfa_Powerup 5.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Lose 6.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "1f4e12dc852484c730c51a17df0f2705ee46541f48a6c87b5d0cf43a60984335_Lose 6.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Lose/1f4e12dc852484c730c51a17df0f2705ee46541f48a6c87b5d0cf43a60984335_Lose 6.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Enemy",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Enemy2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Beyond - part 2.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "20c7a5d5df24cfd45347a3788b956f0cc6b8a5ad3d391f8f576a619f0ce52096_Beyond - part 2.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Epic Dramatic/20c7a5d5df24cfd45347a3788b956f0cc6b8a5ad3d391f8f576a619f0ce52096_Beyond - part 2.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Still Pickin.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "62d4c75fa0180b11ad87d278ff05e8c868323ae6f3903ad615f75323bb959f60_Still Pickin.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Uplifting/62d4c75fa0180b11ad87d278ff05e8c868323ae6f3903ad615f75323bb959f60_Still Pickin.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -686,8 +788,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene",
-      "name": "Untitled scene",
+      "mangledName": "Queue_32Chaos",
+      "name": "Queue Chaos",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -703,7 +805,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.33697282891579017,
+        "zoomFactor": 0.6761749742906606,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -931,13 +1033,45 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "",
+          "layer": "transition",
           "name": "Transition",
           "persistentUuid": "4728e573-1aaa-48e4-bbee-318e64346be5",
           "width": 0,
           "x": 750,
           "y": -90,
           "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "transition",
+          "name": "Transition2",
+          "persistentUuid": "c99b2329-e949-4c11-a35c-b8b83fb44913",
+          "width": 0,
+          "x": 510,
+          "y": -90,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tail_Id_text",
+          "persistentUuid": "d7ca8272-1812-4c95-99c1-7146f88aaf38",
+          "width": 0,
+          "x": 390,
+          "y": 270,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1599,7 +1733,17 @@
           "type": "PrimitiveDrawing::Drawer",
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
           "fillOpacity": 255,
           "outlineSize": 1,
           "outlineOpacity": 255,
@@ -1616,6 +1760,101 @@
             "g": 0,
             "b": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Transition2",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Enemy",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Enemy",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Enemy2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 30
+                          },
+                          {
+                            "x": 0,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -1659,6 +1898,12 @@
           },
           {
             "objectName": "Transition"
+          },
+          {
+            "objectName": "Transition2"
+          },
+          {
+            "objectName": "Enemy"
           }
         ]
       },
@@ -1738,7 +1983,7 @@
                     "Tail_Id_text",
                     "Text",
                     "=",
-                    "\"Tail ID: \"+TailID"
+                    "\"Tail ID: \"+ToString(TimerElapsedTime(\"Enemy Spawn\"))"
                   ]
                 },
                 {
@@ -1760,6 +2005,34 @@
                     "=",
                     "\"Score: \" + Score"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                  },
+                  "parameters": [
+                    "Transition",
+                    "FlashTransitionPainter",
+                    "\"0;0;0\"",
+                    "1",
+                    "\"Circular\"",
+                    "\"Backward\"",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlayMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "65d2524bf89daae21798edf4302b5178779ea16e1ce80a7fcfcac62f9e605ad2_Downtown Boogie.aac",
+                    "1",
+                    "",
+                    "Settings.Music",
+                    ""
+                  ]
                 }
               ]
             },
@@ -1772,6 +2045,40 @@
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Head",
+                        "Food",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Enemy Spawn\""
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
@@ -1919,61 +2226,6 @@
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Border",
-                        "Head",
-                        "",
-                        "",
-                        "yes"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Scene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"End Scence\"",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyReleased"
-                      },
-                      "parameters": [
-                        "",
-                        "q"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Tail_Length",
-                        "-",
-                        "1"
-                      ]
-                    }
-                  ]
-                },
-                {
                   "type": "BuiltinCommonInstructions::ForEach",
                   "object": "Tail",
                   "conditions": [
@@ -2012,7 +2264,20 @@
                     "textR": 0
                   },
                   "comment": "Still trying to figure out how to die if hitting tail without perma death/ nvm ffixed :))))))), the ignore objects on collision is big"
-                },
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "End Game",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
@@ -2040,6 +2305,248 @@
                         "",
                         "yes"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                      },
+                      "parameters": [
+                        "Transition2",
+                        "FlashTransitionPainter",
+                        "\"0;0;0\"",
+                        "1",
+                        "\"Circular\"",
+                        "\"Forward\"",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "1f4e12dc852484c730c51a17df0f2705ee46541f48a6c87b5d0cf43a60984335_Lose 6.aac",
+                        "",
+                        "Settings.Sound",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StopMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "LeftTrain",
+                        "Head",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                      },
+                      "parameters": [
+                        "Transition2",
+                        "FlashTransitionPainter",
+                        "\"0;0;0\"",
+                        "1",
+                        "\"Circular\"",
+                        "\"Forward\"",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "1f4e12dc852484c730c51a17df0f2705ee46541f48a6c87b5d0cf43a60984335_Lose 6.aac",
+                        "",
+                        "Settings.Sound",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StopMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "RightTrain",
+                        "Head",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                      },
+                      "parameters": [
+                        "Transition2",
+                        "FlashTransitionPainter",
+                        "\"0;0;0\"",
+                        "1",
+                        "\"Circular\"",
+                        "\"Forward\"",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "1f4e12dc852484c730c51a17df0f2705ee46541f48a6c87b5d0cf43a60984335_Lose 6.aac",
+                        "",
+                        "Settings.Sound",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StopMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Border",
+                        "Head",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                      },
+                      "parameters": [
+                        "Transition2",
+                        "FlashTransitionPainter",
+                        "\"0;0;0\"",
+                        "1",
+                        "\"Circular\"",
+                        "\"Forward\"",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "1f4e12dc852484c730c51a17df0f2705ee46541f48a6c87b5d0cf43a60984335_Lose 6.aac",
+                        "",
+                        "Settings.Sound",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StopMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffectIsEnd"
+                      },
+                      "parameters": [
+                        "Transition2",
+                        "FlashTransitionPainter",
+                        ""
+                      ]
                     }
                   ],
                   "actions": [
@@ -2063,6 +2570,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Controls",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -2490,8 +2998,8 @@
                       "parameters": [
                         "",
                         "\"RTB\"",
-                        ">",
-                        "0.1"
+                        ">=",
+                        ".1"
                       ]
                     }
                   ],
@@ -2608,17 +3116,6 @@
                             "TailID",
                             "+",
                             "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                          },
-                          "parameters": [
-                            "Tail_Id_text",
-                            "Text",
-                            "=",
-                            "\"Tail ID: \"+TailID"
                           ]
                         }
                       ]
@@ -2777,22 +3274,8 @@
                       ]
                     }
                   ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Boundries(Old)",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
+                },
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -2801,120 +3284,32 @@
                       },
                       "parameters": [
                         "",
-                        "\"RTB\"",
+                        "\"Moving\"",
                         ">=",
-                        "5"
+                        "1"
                       ]
                     }
                   ],
-                  "actions": [],
-                  "events": [
+                  "actions": [
                     {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PosY"
-                          },
-                          "parameters": [
-                            "Head",
-                            ">=",
-                            "ScreenHeight()"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "MettreY"
-                          },
-                          "parameters": [
-                            "Head",
-                            "=",
-                            "0+Head.Width()"
-                          ]
-                        }
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "7cd204fbf5c9d29b609e3bac1f2dcfaaef0bbc33038b000f7a448f6b9594ae13_MetalV1_Walk_14.wav",
+                        "",
+                        "Settings.Sound",
+                        ""
                       ]
                     },
                     {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PosX"
-                          },
-                          "parameters": [
-                            "Head",
-                            "<=",
-                            "-1"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "MettreX"
-                          },
-                          "parameters": [
-                            "Head",
-                            "=",
-                            "ScreenWidth()-Head.Width()"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PosX"
-                          },
-                          "parameters": [
-                            "Head",
-                            ">=",
-                            "ScreenWidth()"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "MettreX"
-                          },
-                          "parameters": [
-                            "Head",
-                            "=",
-                            "0+Head.Width()"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PosY"
-                          },
-                          "parameters": [
-                            "Head",
-                            "<=",
-                            "-1"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "MettreY"
-                          },
-                          "parameters": [
-                            "Head",
-                            "=",
-                            "ScreenHeight()-Head.Width()"
-                          ]
-                        }
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Moving\""
                       ]
                     }
                   ]
@@ -2927,6 +3322,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Food Drop Off",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -3014,8 +3410,149 @@
                             "=",
                             "\"Score: \" + Score"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "01d787569bed7ee17859eca13499426a536d38b472d1480df36d5980ce635cfa_Powerup 5.aac",
+                            "",
+                            "Settings.Sound",
+                            ""
+                          ]
                         }
                       ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Rats",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Enemy Spawn\"",
+                        ">=",
+                        "5"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "RightTrain",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreXY"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "=",
+                            "RandomWithStep(0, 1170, 30)",
+                            "=",
+                            "RandomWithStep(0, 1170, 30)"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "LeftTrain",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreXY"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "=",
+                            "RandomWithStep(0, 1170, 30)",
+                            "=",
+                            "RandomWithStep(0, 1170, 30)"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Border",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreXY"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "=",
+                            "RandomWithStep(0, 1170, 30)",
+                            "=",
+                            "RandomWithStep(0, 1170, 30)"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": []
                     }
                   ]
                 }
@@ -3070,6 +3607,39 @@
               "booleanParameters": {}
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "transition",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -3080,6 +3650,10 @@
         {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
         },
         {
           "name": "Flippable",
@@ -3104,15 +3678,15 @@
       ]
     },
     {
-      "b": 209,
+      "b": 27,
       "disableInputWhenNotFocused": true,
       "mangledName": "End_32Scence",
       "name": "End Scence",
-      "r": 209,
+      "r": 208,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 2,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -3123,7 +3697,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5091788430988332,
+        "zoomFactor": 0.16487939760137627,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3133,15 +3707,48 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 101,
+          "height": 312,
           "keepRatio": true,
           "layer": "",
-          "name": "Lose",
-          "persistentUuid": "d5c6bfea-0f23-4845-9d39-054ea2294340",
-          "width": 360,
-          "x": 403,
-          "y": 446,
+          "name": "Game_Over",
+          "persistentUuid": "fba2ea63-c351-4f07-8ece-909eb74077e3",
+          "width": 923,
+          "x": 173,
+          "y": 204,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 170,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Score_",
+          "persistentUuid": "8f4b9bd4-c312-4225-9e8a-c1920feafa62",
+          "width": 955,
+          "x": 175,
+          "y": 508,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "main_menu",
+          "persistentUuid": "de09b39b-e972-490c-b1b3-901f30da44e3",
+          "width": 0,
+          "x": 170,
+          "y": 779,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3150,44 +3757,84 @@
       "objects": [
         {
           "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "Lose",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
+          "name": "Game_Over",
+          "type": "BitmapText::BitmapTextObject",
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "You Lose",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 80,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "You Lose",
-            "font": "",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 80,
-            "color": "0;0;0"
+            "text": "Game Over",
+            "opacity": 255,
+            "scale": 7,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Score_",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Score:",
+            "opacity": 255,
+            "scale": 7,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "main_menu",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "isFolded": true,
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "content": {
+            "text": "Main Menu",
+            "opacity": 255,
+            "scale": 7,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
           }
         }
       ],
@@ -3195,11 +3842,128 @@
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "Lose"
+            "objectName": "Game_Over"
+          },
+          {
+            "objectName": "Score_"
+          },
+          {
+            "objectName": "main_menu"
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Score_",
+                "Text",
+                "=",
+                "\"Score: \"+Score"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "main_menu",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "main_menu",
+                "Effect",
+                "\"Effect\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "ButtonStates::ButtonFSM::IsHovered"
+              },
+              "parameters": [
+                "main_menu",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "main_menu",
+                "Effect",
+                "\"Effect\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsPressed"
+              },
+              "parameters": [
+                "main_menu",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"MainMenu\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -3248,6 +4012,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
         },
@@ -3266,17 +4034,17 @@
       ]
     },
     {
-      "b": 0,
+      "b": 27,
       "disableInputWhenNotFocused": true,
       "mangledName": "MainMenu",
       "name": "MainMenu",
-      "r": 255,
+      "r": 208,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 0,
+      "v": 2,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 30,
         "gridHeight": 30,
@@ -3284,8 +4052,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.4050262402077814,
+        "snap": false,
+        "zoomFactor": 0.22296059976891014,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3303,6 +4071,12 @@
             },
             {
               "name": "Back"
+            },
+            {
+              "name": "Instructions"
+            },
+            {
+              "name": "InstructionsBack"
             }
           ]
         }
@@ -3336,8 +4110,8 @@
           "name": "Play",
           "persistentUuid": "40426820-4f49-450a-b71f-c2c44c41d524",
           "width": 364,
-          "x": 439,
-          "y": 443,
+          "x": 450,
+          "y": 452,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -3353,8 +4127,8 @@
           "name": "Setting",
           "persistentUuid": "f7d6bc07-edca-4edb-afb7-0ab1d59d799b",
           "width": 680,
-          "x": 296,
-          "y": 650,
+          "x": 300,
+          "y": 630,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -3369,8 +4143,8 @@
           "name": "Quit",
           "persistentUuid": "0bfa1c29-ecdb-4e8f-b4a1-a6e3bfb8b9a9",
           "width": 0,
-          "x": 482,
-          "y": 845,
+          "x": 480,
+          "y": 990,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -3499,13 +4273,80 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Title layer",
+          "layer": "",
           "name": "Transition",
           "persistentUuid": "cfc1976e-9629-4f05-9379-29addf52aa55",
           "width": 0,
           "x": 1380,
           "y": -180,
           "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "",
+          "name": "InstructionsMarker",
+          "persistentUuid": "007a69a8-1e98-4f96-ba77-8d09c1317227",
+          "width": 1200,
+          "x": -1800,
+          "y": 0,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 120,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Instructions",
+          "persistentUuid": "df6f2b0b-810e-4aff-aa5f-81e5ab8c709d",
+          "width": 1056,
+          "x": 150,
+          "y": 810,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 720,
+          "keepRatio": true,
+          "layer": "",
+          "name": "The_Instructions",
+          "persistentUuid": "e8da9bc0-1061-405e-8473-604ac0b972ab",
+          "width": 870,
+          "x": -1620,
+          "y": 90,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "InstructionsBack",
+          "persistentUuid": "23a94afd-2499-47b5-bace-a4a76cd2aecb",
+          "width": 0,
+          "x": -1413,
+          "y": 904,
+          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4100,6 +4941,185 @@
             "g": 0,
             "b": 0
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "InstructionsMarker",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Marker",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Marker",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 30
+                          },
+                          {
+                            "x": 0,
+                            "y": 30
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Instructions",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "isFolded": true,
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "content": {
+            "text": "Instructions",
+            "opacity": 255,
+            "scale": 6,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "The_Instructions",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "content": {
+            "text": "You are trying to get all the people(green) on board the trains\nPickup them up then drop them off in the loading zones (blue) \nIf you crash into the queue or the trains/borders gg",
+            "opacity": 255,
+            "scale": 3,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "InstructionsBack",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 2,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "isFolded": true,
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "content": {
+            "text": "Back",
+            "opacity": 255,
+            "scale": 6,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -4115,6 +5135,12 @@
             "objectName": "Setting"
           },
           {
+            "objectName": "Instructions"
+          },
+          {
+            "objectName": "InstructionsBack"
+          },
+          {
             "objectName": "Sound_Volume"
           },
           {
@@ -4127,10 +5153,16 @@
             "objectName": "Quit"
           },
           {
+            "objectName": "The_Instructions"
+          },
+          {
             "objectName": "Marker"
           },
           {
             "objectName": "SettingsMarker"
+          },
+          {
+            "objectName": "InstructionsMarker"
           },
           {
             "objectName": "SoundSlider"
@@ -4191,6 +5223,14 @@
                 "Settings.m",
                 "=",
                 "MusicSlider.Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "InstructionsMarker"
               ]
             }
           ]
@@ -4335,7 +5375,7 @@
               },
               "parameters": [
                 "",
-                "\"Untitled scene\"",
+                "\"Queue Chaos\"",
                 ""
               ]
             }
@@ -4446,6 +5486,68 @@
                 "Effect",
                 "\"Effect\"",
                 "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsPressed"
+              },
+              "parameters": [
+                "Instructions",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenCameraPosition2"
+              },
+              "parameters": [
+                "",
+                "\"CameraMove\"",
+                "InstructionsMarker.CenterX()",
+                "CameraCenterY()",
+                "",
+                "\"easeInOutQuad\"",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsPressed"
+              },
+              "parameters": [
+                "InstructionsBack",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenCameraPosition2"
+              },
+              "parameters": [
+                "",
+                "\"CameraMove\"",
+                "Marker.CenterX()",
+                "CameraCenterY()",
+                "",
+                "\"easeInOutQuad\"",
+                "1"
               ]
             }
           ]
