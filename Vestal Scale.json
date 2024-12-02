@@ -742,6 +742,128 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Uplifting/62d4c75fa0180b11ad87d278ff05e8c868323ae6f3903ad615f75323bb959f60_Still Pickin.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/1c7a9353a7ff8721e616e81f316fa3dd3e559819ac12d8b38691059d32756f3f_Big Demon_Idle_1.png",
+          "name": "Big Demon_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/5e670f69aa969d6090e24967b50b9dc1fe87a79eb8e7eb92bd0c8d5e613eef5c_Big Demon_Idle_2.png",
+          "name": "Big Demon_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/a11294de6b23c3719da72d280274f42149202a359521f7aa24fc75bc28ce44eb_Big Demon_Idle_3.png",
+          "name": "Big Demon_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/ad5ee4693df1e15d6f28c2978f6587300ef8196de58dc22d4db1f688d1c4f998_Big Demon_Idle_4.png",
+          "name": "Big Demon_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/f417780f37536f392b71906f07e20813b3351812185e6663ac5bc4c73a57c0c0_Big Demon_Run_1.png",
+          "name": "Big Demon_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/45c93661fc199e0f1edfc6f414e84dc91ec518929d702964e5e386848d809a94_Big Demon_Run_2.png",
+          "name": "Big Demon_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/b53baca462c0f578ce7778f22e72642a33a2fe85298ddb769efffe21ebea1d86_Big Demon_Run_3.png",
+          "name": "Big Demon_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Demon_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Demon_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/2c9cd80c50bc10a3d3665dbd15d040d35693f4f3f297b2a2a50919b9ca7623f0_Big Demon_Run_4.png",
+          "name": "Big Demon_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Enemy3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Enemy4",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -805,7 +927,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2907050556557807,
+        "zoomFactor": 0.21568754457175454,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2473,7 +2595,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4853203669801048,
+        "zoomFactor": 0.5016855299493391,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2522,22 +2644,6 @@
           "width": 0,
           "x": 585,
           "y": -585,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 270,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Border",
-          "persistentUuid": "1aa813c3-b1ad-49e8-ad8f-ee0477370f25",
-          "width": 0,
-          "x": 585,
-          "y": 585,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -2724,6 +2830,22 @@
           "x": 510,
           "y": -90,
           "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BottomBorder",
+          "persistentUuid": "cc5e9c0b-ded9-4f8e-b926-164e3e52a1eb",
+          "width": 0,
+          "x": 585,
+          "y": 585,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3468,7 +3590,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Enemy2",
+                      "image": "Enemy4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3507,6 +3629,391 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8581d412a1e001342d6c5211b4d109c8553ae32eb6f4347020593e9f4eba95b5",
+          "name": "BigDemon",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Demon_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 36
+                          },
+                          {
+                            "x": 5,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Demon_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 36
+                          },
+                          {
+                            "x": 5,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Demon_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 36
+                          },
+                          {
+                            "x": 5,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Demon_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 36
+                          },
+                          {
+                            "x": 5,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Demon_Run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 36
+                          },
+                          {
+                            "x": 5,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Demon_Run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 36
+                          },
+                          {
+                            "x": 5,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Demon_Run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 36
+                          },
+                          {
+                            "x": 5,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Demon_Run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 6
+                          },
+                          {
+                            "x": 28,
+                            "y": 36
+                          },
+                          {
+                            "x": 5,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BottomBorder",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 1200
+                          },
+                          {
+                            "x": 0,
+                            "y": 1200
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3526,6 +4033,9 @@
           },
           {
             "objectName": "Border"
+          },
+          {
+            "objectName": "BottomBorder"
           },
           {
             "objectName": "Door"
@@ -3556,6 +4066,9 @@
           },
           {
             "objectName": "Enemy"
+          },
+          {
+            "objectName": "BigDemon"
           }
         ]
       },
@@ -3601,8 +4114,8 @@
                   "parameters": [
                     "",
                     "Food",
-                    "RandomWithStep(0, 1170, 30)",
-                    "RandomWithStep(0, 1170, 30)",
+                    "210",
+                    "1110",
                     ""
                   ]
                 },
@@ -3615,7 +4128,7 @@
                     "Score_Text",
                     "60",
                     "60",
-                    ""
+                    "\"UI\""
                   ]
                 },
                 {
@@ -3636,15 +4149,6 @@
                     "Text",
                     "=",
                     "\"Tail ID: \"+ToString(TimerElapsedTime(\"Enemy Spawn\"))"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Door",
-                    "\"Boarding\""
                   ]
                 },
                 {
@@ -3681,9 +4185,36 @@
                     "",
                     "65d2524bf89daae21798edf4302b5178779ea16e1ce80a7fcfcac62f9e605ad2_Downtown Boogie.aac",
                     "1",
-                    "",
+                    "yes",
                     "Settings.Music",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Food",
+                    "\"Fall\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Food Spawn\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Door",
+                    "\"Boarding\""
                   ]
                 }
               ]
@@ -3693,6 +4224,579 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "name": "Food Fall down",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Food Spawn\"",
+                        ">=",
+                        "RandomFloatInRange(3,7)"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Food",
+                        "RandomWithStep(240, 930, 30)",
+                        "30",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Food Spawn\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Food",
+                        "\"Fall\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Food",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Food",
+                        "\"Fall\"",
+                        ">=",
+                        "RandomFloatInRange(1,3)"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Food",
+                        "\"Fall\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreY"
+                      },
+                      "parameters": [
+                        "Food",
+                        "+",
+                        "30"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Food",
+                        "BottomBorder",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Enemy",
+                        "Food.X()",
+                        "1139",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "\"Rotate\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "\"Move\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Food",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Rats",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Enemy",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "\"Rotate\"",
+                        ">=",
+                        "3"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAngle"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "=",
+                        "RandomWithStep(0,360,90)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "\"Rotate\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Enemy",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "\"Move\"",
+                        ">=",
+                        ".5"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceAL"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "Enemy.Angle()-90",
+                        "600",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "\"Move\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Door",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAngle"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "+",
+                            "+180"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SeparateFromObjects"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Door",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceAL"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Enemy.Angle()-90",
+                            "900",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "LeftTrain",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAngle"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "+",
+                            "+180"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SeparateFromObjects"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Door",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceAL"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Enemy.Angle()-90",
+                            "900",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "RightTrain",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAngle"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "+",
+                            "+180"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SeparateFromObjects"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Door",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceAL"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Enemy.Angle()-90",
+                            "900",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Border",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAngle"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "+",
+                            "+180"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SeparateFromObjects"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Door",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceAL"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Enemy.Angle()-90",
+                            "900",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "BottomBorder",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAngle"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "+",
+                            "+180"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SeparateFromObjects"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Door",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceAL"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Enemy.Angle()-90",
+                            "900",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
               "name": "Others",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -3722,46 +4826,6 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Enemy Spawn\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Head",
-                        "Food",
-                        "",
-                        "",
-                        "yes"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "Food",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)"
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
@@ -3781,98 +4845,14 @@
                         "Settings.Sound",
                         ""
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
+                    },
                     {
                       "type": {
-                        "value": "CollisionNP"
+                        "value": "Delete"
                       },
                       "parameters": [
                         "Food",
-                        "Border",
-                        "",
-                        "",
                         ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "Food",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Food",
-                        "LeftTrain",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "Food",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Food",
-                        "RightTrain",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "Food",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)",
-                        "=",
-                        "RandomWithStep(0, 1170, 30)"
                       ]
                     }
                   ]
@@ -3925,6 +4905,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "End Game",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -4004,6 +4985,19 @@
                   ]
                 },
                 {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "would be cool if we could make function cause there all doing the same thing"
+                },
+                {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -4061,10 +5055,56 @@
                         "",
                         "1"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"RTB\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Food Spawn\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Enemy",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Move\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
                     }
                   ]
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -4122,10 +5162,56 @@
                         "",
                         "1"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"RTB\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Food Spawn\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Enemy",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Move\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
                     }
                   ]
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -4182,6 +5268,265 @@
                       "parameters": [
                         "",
                         "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"RTB\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Food Spawn\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Enemy",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Move\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "BottomBorder",
+                        "Head",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                      },
+                      "parameters": [
+                        "Transition2",
+                        "FlashTransitionPainter",
+                        "\"0;0;0\"",
+                        "1",
+                        "\"Circular\"",
+                        "\"Forward\"",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "1f4e12dc852484c730c51a17df0f2705ee46541f48a6c87b5d0cf43a60984335_Lose 6.aac",
+                        "",
+                        "Settings.Sound",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StopMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"RTB\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Food Spawn\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Enemy",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Move\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "Head",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                      },
+                      "parameters": [
+                        "Transition2",
+                        "FlashTransitionPainter",
+                        "\"0;0;0\"",
+                        "1",
+                        "\"Circular\"",
+                        "\"Forward\"",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "1f4e12dc852484c730c51a17df0f2705ee46541f48a6c87b5d0cf43a60984335_Lose 6.aac",
+                        "",
+                        "Settings.Sound",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StopMusicCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"RTB\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Food Spawn\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Enemy",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Move\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PauseObjectTimer"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "\"Rotate\""
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -5080,135 +6425,6 @@
                 }
               ],
               "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Rats",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Enemy Spawn\"",
-                        ">=",
-                        "5"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Enemy",
-                            "RightTrain",
-                            "",
-                            "",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "MettreXY"
-                          },
-                          "parameters": [
-                            "Enemy",
-                            "=",
-                            "RandomWithStep(0, 1170, 30)",
-                            "=",
-                            "RandomWithStep(0, 1170, 30)"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Enemy",
-                            "LeftTrain",
-                            "",
-                            "",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "MettreXY"
-                          },
-                          "parameters": [
-                            "Enemy",
-                            "=",
-                            "RandomWithStep(0, 1170, 30)",
-                            "=",
-                            "RandomWithStep(0, 1170, 30)"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Enemy",
-                            "Border",
-                            "",
-                            "",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "MettreXY"
-                          },
-                          "parameters": [
-                            "Enemy",
-                            "=",
-                            "RandomWithStep(0, 1170, 30)",
-                            "=",
-                            "RandomWithStep(0, 1170, 30)"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": []
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
             }
           ],
           "parameters": []
@@ -5241,6 +6457,39 @@
               "width": 0
             }
           ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "UI",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
           "effects": [
             {
               "effectType": "Scene3D::HemisphereLight",
@@ -5348,7 +6597,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.16487939760137627,
+        "zoomFactor": 0.3420059478303291,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5381,8 +6630,8 @@
           "name": "Score_",
           "persistentUuid": "8f4b9bd4-c312-4225-9e8a-c1920feafa62",
           "width": 955,
-          "x": 175,
-          "y": 508,
+          "x": 171,
+          "y": 483,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
